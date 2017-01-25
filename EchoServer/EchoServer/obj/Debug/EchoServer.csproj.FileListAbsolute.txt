@@ -1,0 +1,6 @@
+D:\CC#\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+D:\CC#\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+D:\CC#\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+D:\CC#\EchoServer\EchoServer\obj\Debug\EchoServer.csprojResolveAssemblyReference.cache
+D:\CC#\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+D:\CC#\EchoServer\EchoServer\obj\Debug\EchoServer.pdb

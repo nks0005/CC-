@@ -1,0 +1,5 @@
+D:\CC#\FUP\FUP\bin\Debug\FUP.dll
+D:\CC#\FUP\FUP\bin\Debug\FUP.pdb
+D:\CC#\FUP\FUP\obj\Debug\FUP.csprojResolveAssemblyReference.cache
+D:\CC#\FUP\FUP\obj\Debug\FUP.dll
+D:\CC#\FUP\FUP\obj\Debug\FUP.pdb

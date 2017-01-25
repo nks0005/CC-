@@ -1,0 +1,6 @@
+D:\CC#\EchoClient\EchoClient\bin\Debug\EchoClient.exe.config
+D:\CC#\EchoClient\EchoClient\bin\Debug\EchoClient.exe
+D:\CC#\EchoClient\EchoClient\bin\Debug\EchoClient.pdb
+D:\CC#\EchoClient\EchoClient\obj\Debug\EchoClient.csprojResolveAssemblyReference.cache
+D:\CC#\EchoClient\EchoClient\obj\Debug\EchoClient.exe
+D:\CC#\EchoClient\EchoClient\obj\Debug\EchoClient.pdb

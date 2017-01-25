@@ -1,0 +1,8 @@
+D:\CC#\FileSender\FileSender\bin\Debug\FileSender.exe.config
+D:\CC#\FileSender\FileSender\bin\Debug\FileSender.exe
+D:\CC#\FileSender\FileSender\bin\Debug\FileSender.pdb
+D:\CC#\FileSender\FileSender\bin\Debug\FUP.dll
+D:\CC#\FileSender\FileSender\bin\Debug\FUP.pdb
+D:\CC#\FileSender\FileSender\obj\Debug\FileSender.exe
+D:\CC#\FileSender\FileSender\obj\Debug\FileSender.pdb
+D:\CC#\FileSender\FileSender\obj\Debug\FileSender.csprojResolveAssemblyReference.cache

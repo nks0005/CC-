@@ -1,0 +1,8 @@
+D:\CC#\FileReceiver\FileReceiver\bin\Debug\FileReceiver.exe.config
+D:\CC#\FileReceiver\FileReceiver\bin\Debug\FileReceiver.exe
+D:\CC#\FileReceiver\FileReceiver\bin\Debug\FileReceiver.pdb
+D:\CC#\FileReceiver\FileReceiver\bin\Debug\FUP.dll
+D:\CC#\FileReceiver\FileReceiver\bin\Debug\FUP.pdb
+D:\CC#\FileReceiver\FileReceiver\obj\Debug\FileReceiver.csprojResolveAssemblyReference.cache
+D:\CC#\FileReceiver\FileReceiver\obj\Debug\FileReceiver.exe
+D:\CC#\FileReceiver\FileReceiver\obj\Debug\FileReceiver.pdb
