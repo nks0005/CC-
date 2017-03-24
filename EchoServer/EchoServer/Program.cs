@@ -6,12 +6,14 @@ using System.Text;
 
 namespace EchoServer
 {
+    delegate void EventHandler(NetworkStream NS);
+    
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("사용법 : {0} <Bind IP>", Process.GetCurrentProcess().ProcessName);
-            string bindIp = Console.ReadLine();
+            string bindIp = "192.168.1.11";
             const int bindPort = 5425;
             TcpListener server = null;
 

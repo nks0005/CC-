@@ -1,0 +1,6 @@
+D:\CC#\GameServer_Version_1\GameServer_Version_1\bin\Debug\GameServer_Version_1.exe.config
+D:\CC#\GameServer_Version_1\GameServer_Version_1\bin\Debug\GameServer_Version_1.exe
+D:\CC#\GameServer_Version_1\GameServer_Version_1\bin\Debug\GameServer_Version_1.pdb
+D:\CC#\GameServer_Version_1\GameServer_Version_1\obj\Debug\GameServer_Version_1.csprojResolveAssemblyReference.cache
+D:\CC#\GameServer_Version_1\GameServer_Version_1\obj\Debug\GameServer_Version_1.exe
+D:\CC#\GameServer_Version_1\GameServer_Version_1\obj\Debug\GameServer_Version_1.pdb

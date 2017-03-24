@@ -1,0 +1,5 @@
+D:\CC#\Client\Client\bin\Debug\Client.exe.config
+D:\CC#\Client\Client\bin\Debug\Client.exe
+D:\CC#\Client\Client\bin\Debug\Client.pdb
+D:\CC#\Client\Client\obj\Debug\Client.exe
+D:\CC#\Client\Client\obj\Debug\Client.pdb

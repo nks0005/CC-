@@ -10,10 +10,10 @@ namespace EchoClient
     {
         static void Main(string[] args)
         {
-            string bindIp = "127.0.0.1";
+            string bindIp = "192.168.1.11";
             int bindPort = 5426;
 
-            string serverIp = "127.0.0.1";
+            string serverIp = "192.168.1.11";
             const int serverPort = 5425;
 
             string message = null;

@@ -1,0 +1,6 @@
+D:\CC#\Server_Project\Server_Project\bin\Debug\Server_Project.exe.config
+D:\CC#\Server_Project\Server_Project\obj\Debug\Server_Project.csprojResolveAssemblyReference.cache
+D:\CC#\Server_Project\Server_Project\bin\Debug\Server_Project.exe
+D:\CC#\Server_Project\Server_Project\bin\Debug\Server_Project.pdb
+D:\CC#\Server_Project\Server_Project\obj\Debug\Server_Project.exe
+D:\CC#\Server_Project\Server_Project\obj\Debug\Server_Project.pdb

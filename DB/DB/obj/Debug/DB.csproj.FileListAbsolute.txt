@@ -1,0 +1,6 @@
+D:\CC#\DB\DB\bin\Debug\DB.exe.config
+D:\CC#\DB\DB\bin\Debug\DB.exe
+D:\CC#\DB\DB\bin\Debug\DB.pdb
+D:\CC#\DB\DB\obj\Debug\DB.exe
+D:\CC#\DB\DB\obj\Debug\DB.pdb
+D:\CC#\DB\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache

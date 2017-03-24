@@ -1,0 +1,5 @@
+D:\CC#\TestClient\TestClient\bin\Debug\TestClient.exe.config
+D:\CC#\TestClient\TestClient\bin\Debug\TestClient.exe
+D:\CC#\TestClient\TestClient\bin\Debug\TestClient.pdb
+D:\CC#\TestClient\TestClient\obj\Debug\TestClient.exe
+D:\CC#\TestClient\TestClient\obj\Debug\TestClient.pdb
